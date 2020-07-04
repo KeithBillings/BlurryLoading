@@ -1,5 +1,7 @@
 # Blurry Loading
 
+![badgeLogo](https://img.shields.io/badge/KeithBillings-Full%20Stack%20Developer-blue?style=flat-square&logo=undefined)
+
 ## Description
 
 An app to showcase a loading screen or image that goes from blurry to clear.
@@ -57,10 +59,6 @@ MIT License
     LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
     SOFTWARE.
-
-## Badges
-
-![badgeLogo](https://img.shields.io/badge/KeithBillings-Full%20Stack%20Developer-blue?style=flat-square&logo=undefined)
 
 ## Questions
 
