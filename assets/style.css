@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+}
+
+#mtHood {
+  width: 100vw;
+  position: fixed;
+  top: -10%;
+}
