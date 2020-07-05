@@ -15,8 +15,8 @@ An app to showcase a loading screen or image that goes from blurry to clear.
  * [Authors](#Authors)
 
  * [License](#license)
-
- * [Badges](#badges)
+ 
+ * [Questions](#Questions)
 
 ## Usage
 
