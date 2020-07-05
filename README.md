@@ -58,4 +58,4 @@ MIT License
 
 ## Questions
 
-If you have any questions about the repo, open an issue or contact me directly at heyitsbo91@gmail.com. You can find more of my work at [KeithBillings](https://github.com/KeithBillings/)
+If you have any questions about the repo, open an issue or contact me directly at keithbillingsbusiness@gmail.com. You can find more of my work at [KeithBillings](https://keithbillings.github.io/)
