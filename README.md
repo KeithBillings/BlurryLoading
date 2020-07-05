@@ -8,8 +8,6 @@ An app to showcase a loading screen or image that goes from blurry to clear.
 
 ## Table of Contents
 
- * [Installation](#installation)
-
  * [Usage](#usage)
 
  * [Screenshots](#screenshots)
@@ -19,10 +17,6 @@ An app to showcase a loading screen or image that goes from blurry to clear.
  * [License](#license)
 
  * [Badges](#badges)
-
-## Installation
-
-TBD
 
 ## Usage
 
