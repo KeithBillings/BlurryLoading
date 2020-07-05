@@ -24,9 +24,9 @@ Loading screen functionality. Other users can change the picture that will rende
 
 ## Screenshots
 
-![image](./assets/images/Screenshot1.png)
-![image](./assets/images/Screenshot2.png)
-![image](./assets/images/dsc_1398.jpg)
+<img src="./assets/images/Screenshot1.png" style="width: 50%" />
+<img src="./assets/images/Screenshot2.png" style="width: 50%" />
+<img src="./assets/images/dsc_1398.jpg" style="width: 50%" />
 
 ## Authors
 
