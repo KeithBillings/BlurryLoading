@@ -6,4 +6,12 @@ body {
   width: 100vw;
   position: fixed;
   top: -10%;
+  z-index: -1;
+}
+
+#loadingText {
+  display: flex;
+  justify-content: center; 
+  align-items: center;
+  height: 100vh;
 }
