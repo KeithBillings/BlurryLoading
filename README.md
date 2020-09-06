@@ -12,7 +12,7 @@ An app to showcase a loading screen or image that goes from blurry to clear.
 
  * [Screenshots](#screenshots)
 
- * [Authors](#Authors)
+ * [Author](#Author)
 
  * [License](#license)
  
@@ -28,7 +28,7 @@ Loading screen functionality. Other users can change the picture that will rende
 <img src="./assets/images/Screenshot2.png" style="width: 50%" />
 <img src="./assets/images/DSC_1398.jpg" style="width: 50%" />
 
-## Authors
+## Author
 
 Keith Billings
 
